@@ -37,9 +37,11 @@ An 8-bit parity generator is a digital circuit that generates a parity bit based
 ![img](out4.png)
 
 ## PROGRAM
- Program to simulate 8 bit parity generator using Verilog.
- NAME : NITEESH M
- REG.NO : 212222230098
+Program to simulate 8 bit parity generator using Verilog.
+ 
+NAME : NITEESH M
+ 
+REG.NO : 212222230098
 ````
 module parity_generator (
        input [7:0] data_in,
